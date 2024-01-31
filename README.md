@@ -1,4 +1,4 @@
-👩 Hi, I'm Nishu Jakhar 
+🌸 Hi, I'm Nishu Jakhar 
 
 Welcome to my GitHub profile! I'm passionate about data analytics, and I'm currently on a journey to enhance my skills, with a focus on Python programming.
 
