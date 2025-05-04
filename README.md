@@ -23,4 +23,4 @@ Big data technologies and cloud platforms
 🤝 **Let's Connect**
 
 I’m always open to collaborating on data-driven projects or discussing the latest trends in analytics and machine learning.
-Feel free to connect with me on LinkedIn!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/nishu-jakhar?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BDDYSHElOTlmTLNcp%2FHtbVA%3D%3D)!
