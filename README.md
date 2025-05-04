@@ -4,13 +4,13 @@ Hi there! 👋 I'm Nishu Jakhar, a passionate Data Analyst and currently a Maste
 
 🔧 **Technical Skills**
 
-Languages & Tools: Python, SQL, R, Pandas, NumPy, Matplotlib, Seaborn
+***Languages & Tools:*** Python, SQL, R, Pandas, NumPy, Matplotlib, Seaborn
 
-Data Analysis: Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering
+***Data Analysis:*** Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering
 
-Visualization: Creating insightful dashboards and visual reports
+***Visualization:*** Creating insightful dashboards and visual reports
 
-Databases: Skilled in querying and managing relational databases
+***Databases:*** Skilled in querying and managing relational databases
 
 📚 **Currently Learning**
 
