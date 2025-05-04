@@ -1,23 +1,22 @@
-🌸 Hi, I'm Nishu Jakhar 
+🌸 About Me
+Hi there! 👋 I'm Nishu Jakhar, a passionate Data Analyst and currently a Master’s student in Applied Data Science at the University of Essex, United Kingdom. I specialize in transforming complex datasets into meaningful insights using tools like Python, SQL, and R. My journey in data science is fueled by curiosity, critical thinking, and a strong desire to uncover patterns and tell compelling stories through data.
 
-Welcome to my GitHub profile! I'm passionate about data analytics, and I'm currently on a journey to enhance my skills, with a focus on Python programming.
+🔧 Technical Skills
+Languages & Tools: Python, SQL, R, Pandas, NumPy, Matplotlib, Seaborn
 
-🤍 I'm interested in...
+Data Analysis: Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering
 
-- Data Analytics
-- Python Programming
-- Data Visualization
-- SQL
+Visualization: Creating insightful dashboards and visual reports
 
-🎀 I'm currently learning...
+Databases: Skilled in querying and managing relational databases
 
-I'm actively learning and exploring various aspects of data analytics and sharpening my Python skills. I'm particularly interested in applying data analytics techniques to gain valuable insights.
+📚 Currently Learning
+Advanced Machine Learning techniques
 
-🎉 I’m looking to collaborate on...
+Data visualization best practices and tools
 
-I'm open to collaborating on projects related to data analytics. Whether it's exploring interesting datasets, building analytical models, or creating insightful visualizations, I'm eager to contribute and learn from collaborative efforts.
+Big data technologies and cloud platforms
 
-📫 How to reach me...
-
-Feel free to reach out to me via email: jakharnishu@gmail.com
-
+🤝 Let's Connect
+I’m always open to collaborating on data-driven projects or discussing the latest trends in analytics and machine learning.
+Feel free to connect with me on LinkedIn!
